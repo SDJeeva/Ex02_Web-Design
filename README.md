@@ -58,7 +58,7 @@
 
 <li>Electrical & Electronics Engineering</li>
 
-<li>Mechanical Engineering</li>
+<li>Civil Engineering</li>
 
 </ol>
 
@@ -68,7 +68,9 @@
 '''
 
 ## OUTPUT
-Screenshot (2).png
+![Screenshot (43)](https://user-images.githubusercontent.com/127816889/229109030-df3ad24c-39fc-4dda-a9ff-c8f0fd43a46c.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/127816889/229109141-5b3befe7-facb-459a-9b6f-c814e91274a1.png)
+
 
 
 ## RESULT
