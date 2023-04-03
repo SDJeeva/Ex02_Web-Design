@@ -20,57 +20,37 @@
   
 ## CODE
 '''
+
 <html>
-
-<head>
-
-<title> Saveetha Engineering College</title>
-
-</head>
-
-<body bgcolor="cyan" text-"black">
-
-<h1 style-"text-align:center;">Saveetha Engineering College</h1>
-
-<hr width="px;" color="red">
-
-<ol type="A">
-
-<li>Agricultural Engineering</li>
-
-<li>Computer Science And Engineering</li>
-
-<li>Information Technology</li>
-
-<li>Data Science</li>
-
-<ul type-"disc">
-
-<li>Artificial Intelligence - Data Science</li>
-
-<li>Artificial Intelligence - Machine Learning</li>
-
-<li>Internet Of Things</li>
-
-</ul>
-
-<li>Electronics & Communication Engineering</li>
-
-<li>Electrical & Electronics Engineering</li>
-
-<li>Civil Engineering</li>
-
-</ol>
-
+      <head>
+           <title> Saveetha Engineering College</title>
+      </head>
+      <body bgcolor="cyan" text="black">
+   <h1 align:"center">Saveetha Engineering College</h1> 
+     <hr size="8" color="red">
+   <ol type="A">
+     <li>Agricultural Engineering</li>
+     <li>Computer Science And Engineering</li>
+     <li>Information Technology</li>
+     <li>Data Science</li>
+     <ul type="disc">
+       <li>Artificial Intelligence - Data Science</li>
+       <li>Artificial Intelligence - Machine Learning</li>
+       <li>Internet Of Things</li>
+     </ul>
+     <li>Electronics & Communication Engineering</li>
+     <li>Electrical & Electronics Engineering</li>
+     <li>Mechanical Engineering</li>
+   </ol>
 </body>
-
 </html>
+
 '''
 
 ## OUTPUT
-![Screenshot (43)](https://user-images.githubusercontent.com/127816889/229109030-df3ad24c-39fc-4dda-a9ff-c8f0fd43a46c.png)
-![Screenshot (44)](https://user-images.githubusercontent.com/127816889/229109141-5b3befe7-facb-459a-9b6f-c814e91274a1.png)
+![2023-04-02](https://user-images.githubusercontent.com/127816889/229415316-6dc7b769-3ae7-43d4-b5f5-a02a64af2597.png)
 
+ 
 
 
 ## RESULT
