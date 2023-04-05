@@ -19,36 +19,35 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-'''
-
 <html>
-      <head>
-           <title> Saveetha Engineering College</title>
-      </head>
-      <body bgcolor="cyan" text="black">
-   <h1 align:"center">Saveetha Engineering College</h1> 
-     <hr size="8" color="red">
-   <ol type="A">
-     <li>Agricultural Engineering</li>
-     <li>Computer Science And Engineering</li>
-     <li>Information Technology</li>
-     <li>Data Science</li>
-     <ul type="disc">
-       <li>Artificial Intelligence - Data Science</li>
-       <li>Artificial Intelligence - Machine Learning</li>
-       <li>Internet Of Things</li>
-     </ul>
-     <li>Electronics & Communication Engineering</li>
-     <li>Electrical & Electronics Engineering</li>
-     <li>Mechanical Engineering</li>
-   </ol>
+<head>
+<title> Saveetha Engineering College</title>
+</head>
+<body bgcolor="cyan" text-"black">
+<h1 style-"text-align:center;">Saveetha Engineering College</h1>
+<hr width="px;" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence - Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet Of Things</li>
+</ul>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+</ol>
 </body>
 </html>
 
-'''
+
 
 ## OUTPUT
-![2023-04-02](https://user-images.githubusercontent.com/127816889/229415316-6dc7b769-3ae7-43d4-b5f5-a02a64af2597.png)
+![image](https://user-images.githubusercontent.com/127816889/229993960-3c4c87d8-a96d-4bb5-a040-112f889aff7d.png)
+
 
  
 
